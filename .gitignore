@@ -1,7 +1,12 @@
-*.pkl
 BrainTumorDataset/
 uploads/
 catboost_info/
 __pycache__/
 *.pyc
 .venv/
+.venv-*/
+env/
+venv/
+Best_BrainTumor_Model.pkl
+Scaler.pkl
+LabelEncoder.pkl

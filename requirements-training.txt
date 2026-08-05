@@ -1,0 +1,8 @@
+-r requirements.txt
+pandas
+matplotlib
+seaborn
+xgboost
+catboost
+jupyter
+ipykernel
